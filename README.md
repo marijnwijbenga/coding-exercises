@@ -59,4 +59,4 @@ Multi sort & filter list (sort by different values, also filter values)
 2D platform game  
 Circle with smaller circles in it that move a straight line but appear to be cirling (https://imgur.com/a/aOnzerj)  
 Pixelart Editor  
-create an OS![image](https://user-images.githubusercontent.com/62565907/183254025-fd9c6c5b-20b1-4f3d-afe0-35c96e847f7f.png)  
+create an OS!
