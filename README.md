@@ -1,5 +1,3 @@
-Countdown clock  
-New year countdown  
 Distance Between Two Cities  
 Reverse a String  
 pig latin  
