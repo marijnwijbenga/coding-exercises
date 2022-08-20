@@ -1,9 +1,7 @@
-Distance Between Two Cities  
 Reverse a String  
 pig latin  
 Count Vowels  
 Count Words in a String  
-Get Atomic Time from Internet Clock  
 Sortable list  
 Find pi to the nth digit  
 Mortgage Calculator  
