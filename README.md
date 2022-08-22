@@ -3,6 +3,7 @@ pig latin
 Count Vowels  
 Count Words in a String  
 Sortable list  
+binary to text translator.  
 Find pi to the nth digit  
 Mortgage Calculator  
 Unit Converter (temp, currency, volume, mass and more  
